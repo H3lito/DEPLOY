@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+   background-color: #000000; /* preto */
+  color: #e0e0e0;
+    margin: 0;
+    padding: 20px;
+}
+div{
+  background-color: #121212; 
+   color: #1e90ff;
+}
+
+main{
+     background-color: #121212;    
+  color: #1e90ff;                 
+  border: 2px solid #1e90ff;    
+  padding: 20px;                 
+  border-radius: 8px;             
+  box-shadow: 0 0 15px #1e90ffaa; 
+  max-width: 800px;               
+  margin: 20px auto;             
+  margin-top: 200px;
+  font-size: 1.1rem;              
+  line-height: 1.5;
+}
