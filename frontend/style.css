@@ -5,6 +5,10 @@ body {
     margin: 0;
     padding: 20px;
 }
+div{
+  background-color: #121212; 
+   color: #1e90ff;
+}
 
 main{
      background-color: #121212;    
